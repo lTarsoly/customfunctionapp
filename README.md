@@ -26,7 +26,7 @@ I have developed and tested these apps, the provisioning, set-up and deployment 
 * host_rscript.json/host_rust.json - demo config files for running rscript/rust apps inside the function
 * setdockerwithoutsudo.sh - bash script to enable running the docker daemon without root user privileges
 
-
+## Build and push to Azure
 
 (from bash)
 1. clone this repo
