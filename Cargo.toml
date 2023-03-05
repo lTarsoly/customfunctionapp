@@ -1,0 +1,9 @@
+[package]
+name = "hello-world-server"
+version = "0.1.0"
+authors = ["paulbatum"]
+edition = "2018"
+
+[dependencies]
+hyper = "0.13.3"
+tokio = { version =  "0.2.13", features = ["macros"] }
